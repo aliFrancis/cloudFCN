@@ -2,6 +2,7 @@
 
 CloudFCN is a python 3 package for developing and evaluating Fully Convolutional Networks, specifically for cloud-masking. Currently, the [Biome dataset](https://landsat.usgs.gov/landsat-8-cloud-cover-assessment-validation-data) for Landsat 8 is supported.
 
+If you find this project helpful in your work, please cite our paper: https://www.mdpi.com/2072-4292/11/19/2312
 
 ## Installation
 
